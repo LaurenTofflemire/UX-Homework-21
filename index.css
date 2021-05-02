@@ -52,7 +52,7 @@ font-family: 'Merriweather Sans', sans-serif;
 
 /* Jumbotron  */
 .jumbotron {
-  background-image: url("/Users/laurentofflemire/Documents/00-MyCode/Week 21/images/nick-fewings-85ErqmltV0o-unsplash.jpg");
+  background-image: url("../UX-Homework-21/images/nick-fewings-85ErqmltV0o-unsplash.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   height: calc(100vh - 25px);
@@ -62,7 +62,7 @@ font-family: 'Merriweather Sans', sans-serif;
 }
 
 .jumbotron1 {
-    background-image: url("/Users/laurentofflemire/Documents/00-MyCode/Week 21/images/krystina-rogers-5aXEo-hGwU0-unsplash.jpg");
+    background-image: url("../UX-Homework-21/images/krystina-rogers-5aXEo-hGwU0-unsplash.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     height: calc(100vh - 25px);
@@ -72,7 +72,7 @@ font-family: 'Merriweather Sans', sans-serif;
   }
 
 .jumboTIPS {
-    background-image: url("/Users/laurentofflemire/Documents/00-MyCode/Week 21/images/icee-dc-q8I3Jeph4uU-unsplash.jpg");
+    background-image: url("../UX-Homework-21/images/icee-dc-q8I3Jeph4uU-unsplash.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     height: calc(100vh - 25px);
@@ -148,7 +148,7 @@ border-color: #793F94;
 
 /* Footer */
 .emailContain {
-  background: url("/Users/laurentofflemire/Documents/00-MyCode/Week 21/images/pexels-karolina-grabowska-4622976.jpg");
+  background: url("../UX-Homework-21/images/pexels-karolina-grabowska-4622976.jpg");
   background-size: cover;
   display: flex;
   align-items: center;
